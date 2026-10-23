@@ -1,13 +1,13 @@
 name = "enroyale"
 author = "Kamesuta"
-version = "0.1.0"
+version = "0.2.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "ba45afe0abce30d517d155bd5fdeebbcd73d68e671195fcbaa45f92fe152e84a"
+hash = "b8c5c483bff2c724c50e9fac19f590a68c1d234ba9460f713ede9f5096aa54bf"
 
 [versions]
 fabric = "0.19.5"
-minecraft = "1.21.11"
+minecraft = "26.3"

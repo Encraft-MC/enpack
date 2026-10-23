@@ -1,0 +1,8 @@
+name = "EnPvP Client"
+filename = "enpvp-client-0.1.0.jar"
+side = "client"
+
+[download]
+url = "https://encraft-mc.github.io/enpack/artifacts/enpvp-client/0.1.0/enpvp-client-0.1.0.jar"
+hash-format = "sha256"
+hash = "329743899baf907a5b00d823af9ee5527bfb789caba4e02e48533e1911cb58b7"
