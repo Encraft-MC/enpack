@@ -1,15 +1,15 @@
 name = "strata"
-filename = "strata-runtime-minecraft-fabric-1.21.11-0.1.6.jar"
+filename = "strata-runtime-minecraft-fabric-26.3-0.3.1.jar"
 side = "client"
 
 [download]
-url = "https://github.com/sya-ri/strata/releases/download/v0.1.6/strata-runtime-minecraft-fabric-1.21.11-0.1.6.jar"
+url = "https://github.com/sya-ri/strata/releases/download/v0.3.1/strata-runtime-minecraft-fabric-26.3-0.3.1.jar"
 hash-format = "sha256"
-hash = "b4b99640cc6f1102d27cd558de6148099f96da25abab6bb89fa1b13938110f17"
+hash = "9419dbefeecd3bb7325b3bd9a75e7175d2bd19db6ef4eeab0d99c2331ca6fe49"
 
 [update]
 [update.github]
 branch = "master"
-regex = "fabric-1\\.21\\.11-.*\\.jar$"
+regex = "fabric-26\\.3-.*\\.jar$"
 slug = "sya-ri/strata"
-tag = "v0.1.6"
+tag = "v0.3.1"

@@ -1,11 +1,21 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/enpvp-client.pw.toml"
+hash = "77032bcf77beb236fcc9fd8473ada15c66c5d37ee2ad488638feff42544dc5da"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "d0f98f217f9d627617c1a3bfe129c34f8358cb71b9b6b35d537b2d4c6beed422"
+metafile = true
+
+[[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "35842c70979dc4843ab4ac914fc801f75eb8069a5ededa47490a8fb8c637a0b2"
+hash = "854bb2ddef475af3044ef8ca84f12c01b992981822f4eee501a26585e8aa4e8e"
 metafile = true
 
 [[files]]
 file = "mods/strata.pw.toml"
-hash = "9f7f104c0cc1e27b3f01797e5de15d7f0b187c6ed9e08975c36f57081d65e466"
+hash = "4f10fc813f1b5cfd39499bce7d12d73f9c8f4f31ae0d6a2cedbdb4da21ffdff3"
 metafile = true
