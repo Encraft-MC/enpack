@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "mods/enpvp-client.pw.toml"
-hash = "82ca4894030937b79b73a66b35657ffc53faf2ad5db62ac92872ace4160f4196"
+hash = "77032bcf77beb236fcc9fd8473ada15c66c5d37ee2ad488638feff42544dc5da"
 metafile = true
 
 [[files]]

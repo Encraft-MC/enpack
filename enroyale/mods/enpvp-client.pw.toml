@@ -5,4 +5,4 @@ side = "client"
 [download]
 url = "https://encraft-mc.github.io/enpack/artifacts/enpvp-client/0.1.0/enpvp-client-0.1.0.jar"
 hash-format = "sha256"
-hash = "75baa58dec60c315431c4e20d8015df355df28ad9e20a9ef732133658a4373a9"
+hash = "75c224ac19b2c01db3e34795b812c7b531688a5969225d36fa4be04869e97389"
