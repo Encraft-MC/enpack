@@ -16,6 +16,11 @@ hash = "854bb2ddef475af3044ef8ca84f12c01b992981822f4eee501a26585e8aa4e8e"
 metafile = true
 
 [[files]]
+file = "mods/modmenu.pw.toml"
+hash = "cd05db76d670773ace1184abdd46126e7b7c75c2b70da82e1764cff9544c4269"
+metafile = true
+
+[[files]]
 file = "mods/strata.pw.toml"
 hash = "4f10fc813f1b5cfd39499bce7d12d73f9c8f4f31ae0d6a2cedbdb4da21ffdff3"
 metafile = true
