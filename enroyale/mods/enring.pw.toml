@@ -1,0 +1,8 @@
+name = "Enring"
+filename = "enring-1.0.0.jar"
+side = "client"
+
+[download]
+url = "https://encraft-mc.github.io/enpack/artifacts/enring/1.0.0/enring-1.0.0.jar"
+hash-format = "sha256"
+hash = "bc0adf6fcca2f871b11189c6902060f9448e40591e949000a1e1eaedff37b1cf"
