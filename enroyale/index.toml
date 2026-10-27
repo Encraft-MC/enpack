@@ -21,8 +21,18 @@ hash = "854bb2ddef475af3044ef8ca84f12c01b992981822f4eee501a26585e8aa4e8e"
 metafile = true
 
 [[files]]
+file = "mods/iris.pw.toml"
+hash = "3af2426b8d83a5fcda1ff6de2035d53bcff532653c196f2ea6d7647995e45131"
+metafile = true
+
+[[files]]
 file = "mods/modmenu.pw.toml"
 hash = "cd05db76d670773ace1184abdd46126e7b7c75c2b70da82e1764cff9544c4269"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "0bf314c578473659bd89915114cac8e60994988f405218726a48d35b06e9316c"
 metafile = true
 
 [[files]]

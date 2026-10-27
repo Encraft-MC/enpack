@@ -1,12 +1,12 @@
 name = "enroyale"
 author = "Kamesuta"
-version = "0.2.2"
+version = "0.2.3"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "e7400d6db1b9647e0d8dd7db71b18b4869e9873f44a606a846892545b7d8eb41"
+hash = "04105ef4e14455e32153ce52356240d16205f218e42cbeab3577dc36ea868046"
 
 [versions]
 fabric = "0.19.5"

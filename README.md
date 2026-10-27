@@ -1,6 +1,6 @@
 # enpack
 
-`enroyale/` は Minecraft 26.3 / Fabric Loader 0.19.5 用のクライアントパックです。Fabric API、Fabric Language Kotlin、Strata、EnPvP Client、縮むリングを描く Enring、導入 MOD の一覧を表示する Mod Menu を必須で配布します。各版とダウンロードハッシュは [pack.toml](enroyale/pack.toml) と [MOD メタデータ](enroyale/mods/) で固定します。
+`enroyale/` は Minecraft 26.3 / Fabric Loader 0.19.5 用のクライアントパックです。Fabric API、Fabric Language Kotlin、Strata、EnPvP Client、縮むリングを描く Enring、導入 MOD の一覧を表示する Mod Menu、描画を軽くする Sodium、シェーダーを使える Iris Shaders を必須で配布します。各版とダウンロードハッシュは [pack.toml](enroyale/pack.toml) と [MOD メタデータ](enroyale/mods/) で固定します。
 
 既存参加者は 26.3 対応インストーラを再実行してプロファイルを更新します。その後の MOD 同期は既存の unsup が起動時に行います。
 
