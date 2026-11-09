@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/enpvp-airship.pw.toml"
+hash = "1b6a94e608fd274c262f40eb78d7c474742958e664ccc0ff51150cf32cecd537"
+metafile = true
+
+[[files]]
 file = "mods/enpvp-client.pw.toml"
 hash = "3b6257758364222b45be6ce3b43711cb9884fa7e750990df68fc0f9047dd769d"
 metafile = true
