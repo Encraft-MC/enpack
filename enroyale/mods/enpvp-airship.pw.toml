@@ -1,0 +1,8 @@
+name = "EnPvP Airship"
+filename = "enpvp-airship-0.1.0.jar"
+side = "client"
+
+[download]
+url = "https://encraft-mc.github.io/enpack/artifacts/enpvp-airship/0.1.0/enpvp-airship-0.1.0.jar"
+hash-format = "sha256"
+hash = "f52f3e86467fa704841c90e39df23f580f49fb7212ae089a948a08566476590a"
