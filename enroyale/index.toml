@@ -7,7 +7,7 @@ metafile = true
 
 [[files]]
 file = "mods/enpvp-client.pw.toml"
-hash = "3b6257758364222b45be6ce3b43711cb9884fa7e750990df68fc0f9047dd769d"
+hash = "7e94ac1d9f7cb29d2317628babe286b826685c3835f91fccddf6fcb2223d4598"
 metafile = true
 
 [[files]]
